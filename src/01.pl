@@ -14,5 +14,5 @@ sub get_unique_sorted{
 }
 
 #testing
-my $test_arr_ref = [0, 6, 2, 2, 3, 1, 1, 74];
-print get_unique_sorted($test_arr_ref);
+my $test_arrref = [0, 6, 2, 2, 3, 1, 1, 74];
+print get_unique_sorted($test_arrref);
